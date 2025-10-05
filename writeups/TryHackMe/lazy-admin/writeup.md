@@ -1,7 +1,4 @@
 ---
-
-# Minimal front-matter — fill these (remove comments after you fill)
-
 title: "Lazy Admin"        # REQUIRED — short, human readable
 platform: "TryHackMe"           # REQUIRED — e.g. TryHackMe, HackTheBox, CTFName
 category: "web"                 # OPTIONAL — web / pwn / rev / misc
@@ -12,7 +9,7 @@ time_spent: "1h"                # OPTIONAL — approximate
 license: "CC BY 4.0"            # OPTIONAL — your repo license
 -------------------------------------------------------------
 
-# TL;DR  (one or two sentences)
+# TL;DR
 
 Found an RCE in a SweetRice CMS ads upload: I uploaded a PHP reverse shell via the Ads editor, caught a www-data shell, read the user flag, and abused a sudoable /home/itguy/backup.pl to create a SUID root shell and read the root flag. Results: obtained both the user and root flags.
 
@@ -23,7 +20,7 @@ THM{6637f41d0177b6f37cb20d775124699f}
 
 [TryHackMe - **Lazy Admin**](https://tryhackme.com/room/lazyadmin) - SweetRice CMS vulnerable to RCE via the Ads upload (upload PHP shell), leading to `www-data` access and local privilege escalation using a sudo-allowed `backup.pl` to obtain root.
 
-# What I needed (quick)
+# What I needed
 
 * **OS:** Linux (Kali/Ubuntu recommended) **Or just the TryHackMe Attackbox**
 * **Tools:** nmap, gobuster (or dirb), curl, rlwrap, netcat (nc), python3, hashcat or access to CrackStation, a text editor **Included in the TryHackMe Attackbox**
@@ -361,7 +358,7 @@ cat /root/root.txt
 
 Save the flag - that's your second (root) flag and the box is complete.
 
-## 19) Clean up (optional, if allowed)
+## 19) Clean up
 
 On TryHackMe you can leave the VM as is. On systems you own, remove any shells or files you uploaded.
 
