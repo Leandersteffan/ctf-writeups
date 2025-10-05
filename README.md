@@ -1,4 +1,4 @@
-# CTF Writeups — Leander Steffan
+# CTF Writeups - Leander Steffan
 
 Hi, I’m Leander. I solve CTFs and write clear, reproducible walkthroughs so other people can learn the techniques, repeat the steps, and fall in love with cybersecurity.
 
