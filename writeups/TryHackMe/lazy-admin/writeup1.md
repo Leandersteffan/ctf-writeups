@@ -1,12 +1,12 @@
 ---
-title: "Lazy Admin"        # REQUIRED — short, human readable
-platform: "TryHackMe"           # REQUIRED — e.g. TryHackMe, HackTheBox, CTFName
-category: "web"                 # OPTIONAL — web / pwn / rev / misc
-difficulty: "easy"              # OPTIONAL — easy / medium / hard
-date: 2025-10-05                # REQUIRED — YYYY-MM-DD
-tags: ["rce","suid","privilege-escalation","sweet-rice"] # OPTIONAL — keywords, keep short
-time_spent: "1h"                # OPTIONAL — approximate
-license: "CC BY 4.0"            # OPTIONAL — your repo license
+title: "Lazy Admin"
+platform: "TryHackMe"
+category: "web"
+difficulty: "easy"
+date: 2025-10-05
+tags: ["rce","suid","privilege-escalation","sweet-rice"]
+time_spent: "1h"
+license: "CC BY 4.0"
 -------------------------------------------------------------
 
 # TL;DR
