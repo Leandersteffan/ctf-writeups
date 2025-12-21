@@ -13,7 +13,7 @@ license: "CC BY 4.0"
 
 Found a flag hidden inside an image using steganography. I used `exiftool` to find a hidden Base64 string in the metadata, decoded it twice to reveal a `steghide` password, and used that password to extract the flag file from the image.
 
-picoCTF{h1dd3n_1n_1m4g3_54e31417}
+**picoCTF{h1dd3n_1n_1m4g3_54e31417}**
 
 # Challenge
 
