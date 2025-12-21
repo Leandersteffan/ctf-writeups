@@ -1,13 +1,13 @@
 ---
 title: "Lazy Admin"
 platform: "TryHackMe"
-category: "web"
-difficulty: "easy"
+category: "Web"
+difficulty: "Easy"
 date: 2025-10-05
 tags: ["rce","suid","privilege-escalation","sweet-rice"]
 time_spent: "1h"
 license: "CC BY 4.0"
--------------------------------------------------------------
+---
 
 # TL;DR
 

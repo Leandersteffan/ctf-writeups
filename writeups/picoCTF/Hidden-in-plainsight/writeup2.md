@@ -7,7 +7,7 @@ date: 2025-11-23
 tags: ["forensics","steganography","exiftool","steghide","base64"]
 time_spent: "15m"
 license: "CC BY 4.0"
--------------------------------------------------------------
+---
 
 # TL;DR
 

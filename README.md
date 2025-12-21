@@ -21,7 +21,7 @@ See the featured CTFs here: [writeups/featured.md](writeups/featured.md)
 ## How to use this repo
 1. Open `writeups/` → choose a platform folder (e.g., `tryhackme`, `web`, `pwn`) → pick a challenge folder → read `writeup.md`.  
 2. Each writeup has a TL;DR at the top, the commands I used, the exploit code, and a short mitigation note.  
-3. If a challenge needs large files (VM images, PCAPs), the writeup links to a hosted download and includes a checksum — I don’t commit large binaries directly.
+3. If a challenge needs large files (VM images, PCAPs), the writeup links to a hosted download and includes a checksum - I don’t commit large binaries directly.
 
 ## Contributing / Use
 - If you spot an error or can make a writeup clearer, please open an issue or send a short message so I can fix it.  

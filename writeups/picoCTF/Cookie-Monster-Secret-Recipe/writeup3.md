@@ -1,8 +1,8 @@
 ---
 title: "Cookie Monster Secret Recipe"
 platform: "picoCTF"
-category: "web"
-difficulty: "easy"
+category: "Web"
+difficulty: "Easy"
 date: 2025-12-21
 tags: ["cookies", "base64", "decoding"]
 time_spent: "15m"
