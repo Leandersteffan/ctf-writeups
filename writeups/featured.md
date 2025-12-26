@@ -6,3 +6,5 @@
 5. [picoCTF - SSTI1](../writeups/picoCTF/SSTI1/writeup5.md)
 6. [picoCTF - DISKO 1](../writeups/picoCTF/DISKO-1/writeup6.md)
 7. [picoCTF - WebDecode](../writeups/picoCTF/WebDecode/writeup7.md)
+8. [picoCTF - Riddle Registry](../writeups/picoCTF/Riddle-Registry/writeup8.md)
+9. [picoCTF - Flag in Flame](../writeups/picoCTF/Flag-in-Flame/writeup9.md)
